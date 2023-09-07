@@ -54,6 +54,7 @@ const staticFileExtensions = [
 	'jpeg',
 	'jpg',
 	'js',
+	'json',
 	'less',
 	'm4a',
 	'm4v',
@@ -77,6 +78,7 @@ const staticFileExtensions = [
 	'wav',
 	'wmv',
 	'woff',
+	'woff2',
 	'xls',
 	'xml',
 	'zip'
