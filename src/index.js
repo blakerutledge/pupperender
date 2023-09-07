@@ -29,7 +29,9 @@ const botUserAgents = [
 	'slackbot',
 	'twitterbot',
 	'vkShare',
-	'Validator.nu/LV'
+	'Validator.nu/LV',
+	'googlebot',
+  	'mediapartners-google'
 ];
 
 module.exports.botUserAgents = botUserAgents;
